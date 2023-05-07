@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/598925946.svg)](https://zenodo.org/badge/latestdoi/598925946)
+
 Are you looking to expand your understanding of mathematics and statistics? If so, you'll want to check out the Github repository I'm introducing.
 
 This repository is a collection of various mathematical and statistical proofs, related to Machine Learning, Deep Learning and Statitical Learning. I hope this repository acts as useful resource for anyone who wants to explore the underlying principles of math and statistics, as it contains an array of proofs and examples that cover a broad range of topics. The repository includes proofs for various concepts, such as Maximum Likelihood Estimate, Bayesian inference, Regression/Splines, Monte Carlo Markov Chains, Hidden Markov model etc. A complete list of all the items is given below.
@@ -37,7 +39,27 @@ Whether you're a student, researcher, or enthusiast, this repository has somethi
 - [Evidence Lower Bound and KL divergence](hw2_iuq_ad.pdf)
 
 
+### Acknowledgement
+
 **Note**: A lot of the above contents are from deliverables from various courses I took at Georgia Tech, for ex: 
 - ISYE 6416: Computational Statistics
 - CSE 8803: Introduction to Uncertainty Quantification
 - CS 7641: Machine Learning
+
+
+### BibTeX Citation
+
+Please cite the work if you find it useful :)
+
+```
+@misc{ashish_dhiman_2023_7905371,
+  author       = {Ashish Dhiman},
+  title        = {ashish1610dhiman/math\_proofs: v1.0.0},
+  month        = may,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1},
+  doi          = {10.5281/zenodo.7905371},
+  url          = {https://doi.org/10.5281/zenodo.7905371}
+}
+```
