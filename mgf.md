@@ -43,7 +43,8 @@ $$
 \frac{\partial^2 e^{\theta X}}{\partial \theta^2} = 0 + 0 + (X).X + \theta(...)
 $$
 
-Now 
+Now
+
 $$
 \frac{\partial G(\theta)}{\partial \theta}= E[\frac{\partial e^{\theta X}}{\partial \theta}] \quad \text{By definition of MGF}
 $$
