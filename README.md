@@ -18,3 +18,7 @@ This repository is a collection of various mathematical and statistical proofs, 
 - [Rank of Product of matrices](hw3_isye6416.pdf)
 - [Updates for k-means algorithm](hw3_isye6416.pdf)
 - [Expressions for cubic spline](hw3_isye6416.pdf)
+- [Forward Backward algorithm for HMM](hw4_isye6416.pdf)
+- [Viterbi algorithm for HMM](hw4_isye6416.pdf)
+- [PCA as minimising MSE b/w projections and original points](hw5_isye6416.pdf)
+- [Bootstrapping example](hw5_isye6416.pdf)
