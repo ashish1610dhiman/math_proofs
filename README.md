@@ -6,13 +6,13 @@ This repository is a collection of various mathematical and statistical proofs, 
 ## Table of Contents
 
 - [Proof of M-step of GMM](m_step_gmm.md)
-- [Marginal density for Jointly distributed Normal](multivariate_normal.md/#marginal-distribution-for-x--y)
-- [Conditional density for Jointly distributed Normal](multivariate_normal.md/#marginal-distribution-for-x--y)
+- [Marginal density for Jointly distributed Normal](hw1_iuq_ad.pdf)
+- [Conditional probability density for Jointly distributed Normal](hw1_iuq_ad.pdf)
 - [Moment Generating function](mgf.md)
 - [Maximum Likelihood Estimate for Uniform distribution and it's bias](hw1_isye6416.pdf)
 - [Weighted Linear Regression](hw1_isye6416.pdf)
 - [NN and Backpropgation](hw1_isye6416.pdf)
-- [Bayesian Posterior of $\mu|x$ when $\mu \sim \mathcal{N}(\theta, \tau^2)$ and $x \sim \mathcal{N}(\mu, \sigma^2)$](hw1_isye6416.pdf)
+- [Bayesian Posterior of $$\mu|x$$ when $$\mu \sim \mathcal{N}(\theta, \tau^2)$$ and $$x \sim \mathcal{N}(\mu, \sigma^2)$$](hw1_isye6416.pdf)
 - [Soft Thresholding for Lasso Regression](hw2_isye6416.pdf)
 - [Maximum Likelihood Estimate for Normal distribution and it's bias](hw2_isye6416.pdf)
 - [Rank of Product of matrices](hw3_isye6416.pdf)
@@ -28,6 +28,11 @@ This repository is a collection of various mathematical and statistical proofs, 
 - [Bayesian inference and Monte Carlo](hw7_isye6416.pdf)
 - [Metropolis Hastings code and example](hw7_isye6416.pdf)
 - [Bayesian inference of posterior with conditional independence](hw7_isye6416.pdf)
+- [Exact Sampling from Gaussian Random Field](hw1_iuq_ad.pdf)
+- [KL expansion for sampling from Gaussian Random Field](hw1_iuq_ad.pdf)
+- [MCMC examples: Metropolis Hastings, Langevin Dynamics, Hamiltonian Monte Carlo](hw2_iuq_ad.pdf)
+- [KL divergence is non negative](hw2_iuq_ad.pdf)
+- [Evidence Lower Bound and KL divergence](hw2_iuq_ad.pdf)
 
 
 **Note**: A lot of the above contents are from deliverables from various courses I took at Georgia Tech, for ex: 
