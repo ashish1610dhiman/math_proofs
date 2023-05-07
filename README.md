@@ -1,6 +1,8 @@
 Are you looking to expand your understanding of mathematics and statistics? If so, you'll want to check out the Github repository I'm introducing.
 
-This repository is a collection of various mathematical and statistical proofs, related to Machine Learning, Deep Learning and Statitical Learning. I hope this repository acts as useful resource for anyone who wants to explore the underlying principles of math and statistics, as it contains an array of proofs that cover a broad range of topics. The repository includes proofs for various concepts, such as calculus, linear algebra, probability theory, and more. Whether you're a student, researcher, or enthusiast, this repository has something for everyone, and you'll find it to be an invaluable resource in your pursuit of knowledge.
+This repository is a collection of various mathematical and statistical proofs, related to Machine Learning, Deep Learning and Statitical Learning. I hope this repository acts as useful resource for anyone who wants to explore the underlying principles of math and statistics, as it contains an array of proofs and examples that cover a broad range of topics. The repository includes proofs for various concepts, such as Maximum Likelihood Estimate, Bayesian inference, Regression/Splines, Monte Carlo Markov Chains, Hidden Markov model etc. A complete list of all the items is given below.
+
+Whether you're a student, researcher, or enthusiast, this repository has something for everyone, and I hope you'll find it to be an valuable resource in your pursuit of knowledge.
 
 
 ## Table of Contents
