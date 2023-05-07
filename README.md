@@ -22,3 +22,15 @@ This repository is a collection of various mathematical and statistical proofs, 
 - [Viterbi algorithm for HMM](hw4_isye6416.pdf)
 - [PCA as minimising MSE b/w projections and original points](hw5_isye6416.pdf)
 - [Bootstrapping example](hw5_isye6416.pdf)
+- [Optimal $\alpha_t$ for AdaBoost](hw6_isye6416.pdf)
+- [Importance Sampling proof and example](hw6_isye6416.pdf)
+- [Box Muller methods](hw7_isye6416.pdf)
+- [Bayesian inference and Monte Carlo](hw7_isye6416.pdf)
+- [Metropolis Hastings code and example](hw7_isye6416.pdf)
+- [Bayesian inference of posterior with conditional independence](hw7_isye6416.pdf)
+
+
+**Note**: A lot of the above contents are from deliverables from various courses I took at Georgia Tech, for ex: 
+- ISYE 6416: Computational Statistics
+- CSE 8803: Introduction to Uncertainty Quantification
+- CS 7641: Machine Learning
